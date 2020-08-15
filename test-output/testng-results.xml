@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66024" started-at="2020-08-15T06:34:53Z" finished-at="2020-08-15T06:35:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66024" started-at="2020-08-15T06:34:53Z" finished-at="2020-08-15T06:35:59Z">
+      <class name="TestLayer.Programone">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:TestLayer.Programone@34c75a]" name="launchbrowser" is-config="true" duration-ms="5637" started-at="2020-08-15T06:34:53Z" finished-at="2020-08-15T06:34:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="passURL()[pri:0, instance:TestLayer.Programone@34c75a]" name="passURL" is-config="true" duration-ms="3625" started-at="2020-08-15T06:34:58Z" finished-at="2020-08-15T06:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passURL -->
+        <test-method status="PASS" signature="SystemAdmin()[pri:1, instance:TestLayer.Programone@34c75a]" name="SystemAdmin" duration-ms="4882" started-at="2020-08-15T06:35:02Z" finished-at="2020-08-15T06:35:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SystemAdmin -->
+        <test-method status="PASS" signature="logoutPage()[pri:0, instance:TestLayer.Programone@34c75a]" name="logoutPage" is-config="true" duration-ms="7077" started-at="2020-08-15T06:35:07Z" finished-at="2020-08-15T06:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutPage -->
+        <test-method status="PASS" signature="passURL()[pri:0, instance:TestLayer.Programone@34c75a]" name="passURL" is-config="true" duration-ms="5968" started-at="2020-08-15T06:35:14Z" finished-at="2020-08-15T06:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passURL -->
+        <test-method status="PASS" signature="ESSUser()[pri:2, instance:TestLayer.Programone@34c75a]" name="ESSUser" duration-ms="4507" started-at="2020-08-15T06:35:20Z" finished-at="2020-08-15T06:35:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ESSUser -->
+        <test-method status="PASS" signature="logoutPage()[pri:0, instance:TestLayer.Programone@34c75a]" name="logoutPage" is-config="true" duration-ms="3456" started-at="2020-08-15T06:35:24Z" finished-at="2020-08-15T06:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutPage -->
+        <test-method status="PASS" signature="passURL()[pri:0, instance:TestLayer.Programone@34c75a]" name="passURL" is-config="true" duration-ms="968" started-at="2020-08-15T06:35:28Z" finished-at="2020-08-15T06:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passURL -->
+        <test-method status="PASS" signature="firstLevelSupervisor()[pri:3, instance:TestLayer.Programone@34c75a]" name="firstLevelSupervisor" duration-ms="4523" started-at="2020-08-15T06:35:29Z" finished-at="2020-08-15T06:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstLevelSupervisor -->
+        <test-method status="PASS" signature="logoutPage()[pri:0, instance:TestLayer.Programone@34c75a]" name="logoutPage" is-config="true" duration-ms="3488" started-at="2020-08-15T06:35:33Z" finished-at="2020-08-15T06:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutPage -->
+        <test-method status="PASS" signature="passURL()[pri:0, instance:TestLayer.Programone@34c75a]" name="passURL" is-config="true" duration-ms="1016" started-at="2020-08-15T06:35:37Z" finished-at="2020-08-15T06:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passURL -->
+        <test-method status="PASS" signature="Admin()[pri:4, instance:TestLayer.Programone@34c75a]" name="Admin" duration-ms="16232" started-at="2020-08-15T06:35:38Z" finished-at="2020-08-15T06:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admin -->
+        <test-method status="PASS" signature="logoutPage()[pri:0, instance:TestLayer.Programone@34c75a]" name="logoutPage" is-config="true" duration-ms="3698" started-at="2020-08-15T06:35:54Z" finished-at="2020-08-15T06:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutPage -->
+        <test-method status="PASS" signature="quitpage()[pri:0, instance:TestLayer.Programone@34c75a]" name="quitpage" is-config="true" duration-ms="837" started-at="2020-08-15T06:35:58Z" finished-at="2020-08-15T06:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitpage -->
+      </class> <!-- TestLayer.Programone -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
